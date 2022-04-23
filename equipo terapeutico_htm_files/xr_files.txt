@@ -1,0 +1,11 @@
+equipo terapeutico_htm_files
+equipo terapeutico.htm
+equipo terapeutico_htm_files/1.jpg
+equipo terapeutico_htm_files/2.jpg
+equipo terapeutico_htm_files/3.jpg
+equipo terapeutico_htm_files/4.jpg
+equipo terapeutico_htm_files/5.jpg
+equipo terapeutico_htm_files/6.jpg
+equipo terapeutico_htm_files/7.jpg
+equipo terapeutico_htm_files/8.jpg
+equipo terapeutico_htm_files/9.jpg
